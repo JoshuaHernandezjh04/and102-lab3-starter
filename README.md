@@ -1,1 +1,1 @@
-<img src='https://imgur.com/a/btC42tm' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/42GUA9v.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
